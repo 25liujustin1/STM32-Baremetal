@@ -1,0 +1,15 @@
+# STM32CubeIDE workspace settings (machine-specific, rebuilt by the IDE)
+.metadata/
+
+# Build output (regenerated on every build)
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
