@@ -1,7 +1,7 @@
-# STM32CubeIDE workspace settings (machine-specific, rebuilt by the IDE)
+# STM32CubeIDE workspace settings
 .metadata/
 
-# Build output (regenerated on every build)
+# Build output
 Debug/
 Release/
 *.o
@@ -14,5 +14,4 @@ Release/
 *.su
 *.cyclo
 
-# HAL experiment, kept locally only
 blinky_v2/
