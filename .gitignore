@@ -13,3 +13,6 @@ Release/
 *.list
 *.su
 *.cyclo
+
+# HAL experiment, kept locally only
+blinky_v2/
